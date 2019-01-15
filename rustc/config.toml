@@ -1,0 +1,5 @@
+[build]
+cargo = "|CARGOBIN|"
+rustc = "|RUSTCBIN|"
+full-bootstrap = true
+vendor = true
